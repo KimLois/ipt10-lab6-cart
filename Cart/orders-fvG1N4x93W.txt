@@ -1,0 +1,5 @@
+Order Code: fvG1N4x93W
+Date: 2024-09-16 17:54:58
+Items:
+- Product ID: 6 | Name: One Tray Eggs | Price: 300 PHP
+Total Price: 300 PHP

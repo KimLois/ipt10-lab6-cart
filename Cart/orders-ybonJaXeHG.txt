@@ -1,0 +1,5 @@
+Order Code: ybonJaXeHG
+Date: 2024-09-16 17:54:53
+Items:
+- Product ID: 2 | Name: 1L Milk | Price: 120 PHP
+Total Price: 120 PHP

@@ -1,0 +1,7 @@
+Order Code: GHeE4Quaoj
+Date: 2024-09-16 17:55:15
+Items:
+- Product ID: 3 | Name: One Dozen Eggs | Price: 200 PHP
+- Product ID: 1 | Name: 1Kg Sugar | Price: 100 PHP
+- Product ID: 5 | Name: 25Kg Rice | Price: 1200 PHP
+Total Price: 1500 PHP

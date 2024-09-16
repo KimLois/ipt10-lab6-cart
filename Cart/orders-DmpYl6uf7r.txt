@@ -1,0 +1,6 @@
+Order Code: DmpYl6uf7r
+Date: 2024-09-16 17:55:07
+Items:
+- Product ID: 4 | Name: 5Kg Sugar | Price: 500 PHP
+- Product ID: 2 | Name: 1L Milk | Price: 120 PHP
+Total Price: 620 PHP

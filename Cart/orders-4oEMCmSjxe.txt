@@ -1,0 +1,5 @@
+Order Code: 4oEMCmSjxe
+Date: 2024-09-16 17:54:30
+Items:
+- Product ID: 3 | Name: One Dozen Eggs | Price: 200 PHP
+Total Price: 200 PHP
